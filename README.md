@@ -1,0 +1,1 @@
+Here we are considering a dataset i.e default credit card clients and training to various machine learning models.So we can know which model gives the highest accuracy and we can also know which model is suitable for given dataset.
